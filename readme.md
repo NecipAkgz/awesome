@@ -306,6 +306,8 @@
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
 
+**[⬆ back to top](#contents)**
+
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
@@ -383,6 +385,8 @@
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+**[⬆ back to top](#contents)**
 
 ## Front-End Development
 
@@ -466,6 +470,8 @@
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
+**[⬆ back to top](#contents)**
+
 ## Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
@@ -498,6 +504,8 @@
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+
+**[⬆ back to top](#contents)**
 
 ## Computer Science
 
@@ -538,6 +546,8 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 
+**[⬆ back to top](#contents)**
+
 ## Big Data
 
 - [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
@@ -564,6 +574,8 @@
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
+**[⬆ back to top](#contents)**
+
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
@@ -573,6 +585,8 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
+**[⬆ back to top](#contents)**
+
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -581,6 +595,8 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+
+**[⬆ back to top](#contents)**
 
 ## Gaming
 
@@ -607,6 +623,8 @@
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
+**[⬆ back to top](#contents)**
+
 ## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
@@ -632,6 +650,8 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
+**[⬆ back to top](#contents)**
+
 ## Entertainment
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
@@ -639,6 +659,8 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+
+**[⬆ back to top](#contents)**
 
 ## Databases
 
@@ -659,6 +681,8 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 
+**[⬆ back to top](#contents)**
+
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
@@ -676,6 +700,8 @@
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
+**[⬆ back to top](#contents)**
+
 ## Learn
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
@@ -691,6 +717,8 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+
+**[⬆ back to top](#contents)**
 
 ## Security
 
@@ -716,6 +744,8 @@
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
 
+**[⬆ back to top](#contents)**
+
 ## Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
@@ -729,6 +759,8 @@
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 
+**[⬆ back to top](#contents)**
+
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
@@ -740,6 +772,8 @@
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+
+**[⬆ back to top](#contents)**
 
 ## Business
 
@@ -756,6 +790,8 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
+**[⬆ back to top](#contents)**
+
 ## Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
@@ -768,6 +804,8 @@
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
+**[⬆ back to top](#contents)**
+
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
@@ -775,6 +813,8 @@
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+
+**[⬆ back to top](#contents)**
 
 ## Decentralized Systems
 
@@ -792,6 +832,8 @@
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
+**[⬆ back to top](#contents)**
+
 ## Health and Social Science
 
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
@@ -804,11 +846,15 @@
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
+**[⬆ back to top](#contents)**
+
 ## Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+
+**[⬆ back to top](#contents)**
 
 ## Testing
 
@@ -822,6 +868,8 @@
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+
+**[⬆ back to top](#contents)**
 
 ## Miscellaneous
 
@@ -942,6 +990,8 @@
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 
+**[⬆ back to top](#contents)**
+
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
@@ -951,3 +1001,5 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+
+**[⬆ back to top](#contents)**
